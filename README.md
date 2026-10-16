@@ -14,7 +14,7 @@ A full-stack Employee Attendance Management System built with the **MERN Stack**
 - ✅ Role-based Access Control (Employee vs HR)
 - ✅ Responsive & Beautiful UI
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack->
 
 | Layer | Technology |
 |-------|-----------|
